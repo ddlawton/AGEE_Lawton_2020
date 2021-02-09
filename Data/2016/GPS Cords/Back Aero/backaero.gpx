@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="EasyGPS 5.48" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd">
+<metadata>
+<bounds minlat="-31.98794100" minlon="148.00050400" maxlat="-31.98618600" maxlon="148.00171400"/>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-12-27T21:47:26.871Z</time>
+</extensions>
+</metadata>
+<wpt lat="-31.98759100" lon="148.00060700">
+<ele>205.062</ele>
+<time>2016-12-09T03:07:44Z</time>
+<name>306</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>306</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-31.98748000" lon="148.00071300">
+<ele>206.120</ele>
+<time>2016-12-09T03:10:44Z</time>
+<name>307</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>307</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-31.98735700" lon="148.00090600">
+<ele>207.113</ele>
+<time>2016-12-09T03:12:44Z</time>
+<name>308</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>308</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-31.98769700" lon="148.00121800">
+<ele>218.207</ele>
+<time>2016-12-09T03:25:15Z</time>
+<name>309</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>309</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-31.98783800" lon="148.00095700">
+<ele>217.846</ele>
+<time>2016-12-09T03:26:56Z</time>
+<name>310</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>310</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-31.98794100" lon="148.00083000">
+<ele>220.007</ele>
+<time>2016-12-09T03:33:13Z</time>
+<name>311</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>311</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-31.98749900" lon="148.00050400">
+<ele>186.808</ele>
+<time>2016-12-21T02:54:30Z</time>
+<name>337</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>337</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-31.98727800" lon="148.00060200">
+<ele>187.225</ele>
+<time>2016-12-21T02:55:01Z</time>
+<name>338</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>338</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-31.98712000" lon="148.00076900">
+<ele>187.657</ele>
+<time>2016-12-21T02:55:27Z</time>
+<name>339</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>339</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-31.98618600" lon="148.00131400">
+<ele>189.610</ele>
+<time>2016-12-21T02:58:46Z</time>
+<name>340</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>340</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-31.98633400" lon="148.00151600">
+<ele>190.348</ele>
+<time>2016-12-21T02:59:17Z</time>
+<name>341</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>341</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-31.98648200" lon="148.00171400">
+<ele>190.954</ele>
+<time>2016-12-21T02:59:42Z</time>
+<name>342</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>342</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<extensions>
+</extensions>
+</gpx>

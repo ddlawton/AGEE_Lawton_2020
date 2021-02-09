@@ -1,0 +1,191 @@
+"","Field","Location","Transect","family","amount"
+"1",1,"Tree stand",1,"Sample",1
+"2",1,"Tree stand",1,"Sample",2
+"3",1,"Tree stand",1,"Sample",3
+"4",1,"Tree stand",1,"Sample",4
+"5",1,"Tree stand",1,"Sample",5
+"6",1,"Edge",2,"Sample",1
+"7",1,"Edge",2,"Sample",2
+"8",1,"Edge",2,"Sample",3
+"9",1,"Edge",2,"Sample",4
+"10",1,"20 Meters",3,"Sample",1
+"11",1,"20 Meters",3,"Sample",2
+"12",1,"20 Meters",3,"Sample",3
+"13",1,"20 Meters",3,"Sample",4
+"14",1,"20 Meters",3,"Sample",5
+"15",1,"Grassland",4,"Sample",1
+"16",1,"Grassland",4,"Sample",2
+"17",1,"Grassland",4,"Sample",3
+"18",1,"Grassland",4,"Sample",4
+"19",1,"Grassland",4,"Sample",5
+"20",2,"Tree stand",5,"Sample",1
+"21",2,"Tree stand",5,"Sample",2
+"22",2,"Tree stand",5,"Sample",3
+"23",2,"Tree stand",5,"Sample",4
+"24",2,"Tree stand",5,"Sample",5
+"25",2,"Edge",6,"Sample",1
+"26",2,"Edge",6,"Sample",2
+"27",2,"Edge",6,"Sample",3
+"28",2,"Edge",6,"Sample",4
+"29",2,"Edge",6,"Sample",5
+"30",2,"20 Meters",7,"Sample",1
+"31",2,"20 Meters",7,"Sample",2
+"32",2,"20 Meters",7,"Sample",3
+"33",2,"20 Meters",7,"Sample",4
+"34",2,"20 Meters",7,"Sample",5
+"35",2,"Grassland",8,"Sample",1
+"36",2,"Grassland",8,"Sample",2
+"37",2,"Grassland",8,"Sample",3
+"38",2,"Grassland",8,"Sample",4
+"39",2,"Grassland",8,"Sample",5
+"40",3,"Tree stand",9,"Sample",1
+"41",3,"Tree stand",9,"Sample",2
+"42",3,"Tree stand",9,"Sample",3
+"43",3,"Tree stand",9,"Sample",4
+"44",3,"Tree stand",9,"Sample",5
+"45",3,"Edge",10,"Sample",1
+"46",3,"Edge",10,"Sample",2
+"47",3,"Edge",10,"Sample",3
+"48",3,"Edge",10,"Sample",4
+"49",3,"Edge",10,"Sample",5
+"50",3,"20 Meters",11,"Sample",1
+"51",3,"20 Meters",11,"Sample",2
+"52",3,"20 Meters",11,"Sample",3
+"53",3,"20 Meters",11,"Sample",4
+"54",3,"20 Meters",11,"Sample",5
+"55",3,"Grassland",12,"Sample",1
+"56",3,"Grassland",12,"Sample",2
+"57",3,"Grassland",12,"Sample",3
+"58",3,"Grassland",12,"Sample",4
+"59",3,"Grassland",12,"Sample",5
+"60",2,"20 Meters",7,"Acrididae.o",1
+"61",2,"Grassland",8,"Acrididae.o",1
+"62",3,"Edge",10,"Acrididae.o",1
+"63",3,"Edge",10,"Acrididae.o",1
+"64",2,"20 Meters",7,"Armadillidiidae.....Pill.Bug...o",1
+"65",2,"Edge",6,"Blaberidae.o",1
+"66",2,"Edge",6,"blattaria.o",1
+"67",2,"20 Meters",7,"blattaria.o",1
+"68",2,"Grassland",8,"blattaria.o",1
+"69",3,"Tree stand",9,"blattaria.o",1
+"70",3,"20 Meters",11,"blattaria.o",1
+"71",3,"Grassland",12,"blattaria.o",1
+"72",3,"Edge",10,"Caterpillar..Lepidoptera..o",6
+"73",1,"Tree stand",1,"CAVOGNATHIDAE.o",3
+"74",3,"20 Meters",11,"Centipedes.p",1
+"75",3,"Grassland",12,"Centipedes.p",2
+"76",1,"Tree stand",1,"diptera.o",1
+"77",1,"Edge",2,"diptera.o",7
+"78",1,"Edge",2,"diptera.o",3
+"79",1,"20 Meters",3,"diptera.o",2
+"80",1,"20 Meters",3,"diptera.o",1
+"81",1,"20 Meters",3,"diptera.o",1
+"82",2,"Tree stand",5,"diptera.o",2
+"83",2,"Tree stand",5,"diptera.o",3
+"84",2,"Tree stand",5,"diptera.o",2
+"85",2,"Edge",6,"diptera.o",3
+"86",2,"20 Meters",7,"diptera.o",1
+"87",2,"20 Meters",7,"diptera.o",1
+"88",2,"20 Meters",7,"diptera.o",1
+"89",2,"20 Meters",7,"diptera.o",1
+"90",3,"Edge",10,"diptera.o",2
+"91",3,"Edge",10,"diptera.o",3
+"92",3,"Edge",10,"diptera.o",7
+"93",3,"Edge",10,"diptera.o",13
+"94",3,"Edge",10,"diptera.o",4
+"95",3,"20 Meters",11,"diptera.o",10
+"96",3,"20 Meters",11,"diptera.o",7
+"97",3,"Grassland",12,"diptera.o",3
+"98",3,"Grassland",12,"diptera.o",6
+"99",1,"Edge",2,"Discolomatidae.o",1
+"100",3,"Edge",10,"Discolomatidae.o",1
+"101",3,"Tree stand",9,"Grillidae.o",1
+"102",3,"Tree stand",9,"Grillidae.o",1
+"103",3,"Grassland",12,"Grillidae.o",3
+"104",1,"Edge",2,"Harvestmen..Opiliones..p",3
+"105",1,"Edge",2,"Harvestmen..Opiliones..p",2
+"106",1,"20 Meters",3,"Harvestmen..Opiliones..p",2
+"107",1,"20 Meters",3,"Harvestmen..Opiliones..p",1
+"108",1,"Grassland",4,"Harvestmen..Opiliones..p",1
+"109",1,"Grassland",4,"Harvestmen..Opiliones..p",1
+"110",2,"Tree stand",5,"Harvestmen..Opiliones..p",13
+"111",2,"Tree stand",5,"Harvestmen..Opiliones..p",2
+"112",2,"Tree stand",5,"Harvestmen..Opiliones..p",1
+"113",2,"Tree stand",5,"Harvestmen..Opiliones..p",2
+"114",2,"Edge",6,"Harvestmen..Opiliones..p",1
+"115",2,"Edge",6,"Harvestmen..Opiliones..p",1
+"116",2,"20 Meters",7,"Harvestmen..Opiliones..p",1
+"117",2,"Grassland",8,"Harvestmen..Opiliones..p",1
+"118",3,"Edge",10,"Harvestmen..Opiliones..p",2
+"119",3,"Edge",10,"Harvestmen..Opiliones..p",3
+"120",3,"Edge",10,"Harvestmen..Opiliones..p",2
+"121",3,"20 Meters",11,"Harvestmen..Opiliones..p",2
+"122",3,"20 Meters",11,"Harvestmen..Opiliones..p",2
+"123",3,"Grassland",12,"Harvestmen..Opiliones..p",1
+"124",3,"Grassland",12,"Harvestmen..Opiliones..p",3
+"125",2,"Grassland",8,"HYGROBIIDAE.p.",3
+"126",2,"20 Meters",7,"isopoda.o",1
+"127",2,"Tree stand",5,"LAMINGTONIIDAE.p",1
+"128",2,"Edge",6,"LAMINGTONIIDAE.p",2
+"129",2,"20 Meters",7,"LAMINGTONIIDAE.p",1
+"130",2,"20 Meters",7,"LAMINGTONIIDAE.p",1
+"131",2,"Grassland",8,"LAMINGTONIIDAE.p",1
+"132",2,"Grassland",8,"LAMINGTONIIDAE.p",1
+"133",2,"Grassland",8,"LAMINGTONIIDAE.p",2
+"134",2,"Grassland",8,"LAMINGTONIIDAE.p",4
+"135",3,"Tree stand",9,"LAMINGTONIIDAE.p",1
+"136",3,"Tree stand",9,"LAMINGTONIIDAE.p",1
+"137",3,"Tree stand",9,"LAMINGTONIIDAE.p",1
+"138",3,"Tree stand",9,"LAMINGTONIIDAE.p",2
+"139",2,"Edge",6,"Miturgidae....Prowling.Spider..p",1
+"140",2,"20 Meters",7,"Miturgidae....Prowling.Spider..p",1
+"141",3,"20 Meters",11,"multillidae.o",1
+"142",1,"20 Meters",3,"Other.Beetle.p",2
+"143",1,"Grassland",4,"Other.Beetle.p",1
+"144",2,"Grassland",8,"Other.Beetle.p",1
+"145",3,"Tree stand",9,"Other.Beetle.p",1
+"146",3,"Edge",10,"Other.Beetle.p",1
+"147",3,"Edge",10,"Other.Beetle.p",1
+"148",3,"20 Meters",11,"Other.Beetle.p",1
+"149",3,"20 Meters",11,"Other.Beetle.p",1
+"150",3,"Grassland",12,"Other.Beetle.p",1
+"151",3,"Grassland",12,"Other.Beetle.p",2
+"152",3,"Grassland",12,"Other.Beetle.p",1
+"153",3,"Grassland",12,"Other.Beetle.p",2
+"154",1,"Tree stand",1,"Other.o",1
+"155",1,"Tree stand",1,"Other.o",1
+"156",2,"Grassland",8,"Other.o",5
+"157",3,"20 Meters",11,"Other.o",1
+"158",1,"Tree stand",1,"Other.spider.p",3
+"159",1,"Tree stand",1,"Other.spider.p",2
+"160",1,"Tree stand",1,"Other.spider.p",1
+"161",1,"Edge",2,"Other.spider.p",2
+"162",1,"Edge",2,"Other.spider.p",1
+"163",1,"20 Meters",3,"Other.spider.p",1
+"164",1,"20 Meters",3,"Other.spider.p",1
+"165",1,"Grassland",4,"Other.spider.p",1
+"166",1,"Grassland",4,"Other.spider.p",1
+"167",2,"Edge",6,"Other.spider.p",1
+"168",2,"20 Meters",7,"Other.spider.p",1
+"169",2,"20 Meters",7,"Other.spider.p",1
+"170",2,"Grassland",8,"Other.spider.p",3
+"171",3,"Edge",10,"Other.spider.p",1
+"172",3,"20 Meters",11,"Other.spider.p",1
+"173",3,"Grassland",12,"Other.spider.p",1
+"174",1,"20 Meters",3,"Other.wasps.o",2
+"175",1,"Grassland",4,"Parasitic.wasps.o",1
+"176",3,"Grassland",12,"Parasitic.wasps.o",1
+"177",1,"Grassland",4,"Passandidae",1
+"178",2,"20 Meters",7,"Pisauridae.p",1
+"179",3,"20 Meters",11,"termite.o",1
+"180",1,"Edge",2,"Wolf.spider..Lycosidae..p",1
+"181",1,"Edge",2,"Wolf.spider..Lycosidae..p",1
+"182",2,"Tree stand",5,"Wolf.spider..Lycosidae..p",1
+"183",2,"Tree stand",5,"Wolf.spider..Lycosidae..p",2
+"184",2,"Edge",6,"Wolf.spider..Lycosidae..p",1
+"185",2,"Edge",6,"Wolf.spider..Lycosidae..p",1
+"186",2,"Edge",6,"Wolf.spider..Lycosidae..p",1
+"187",2,"20 Meters",7,"Wolf.spider..Lycosidae..p",1
+"188",2,"20 Meters",7,"Wolf.spider..Lycosidae..p",1
+"189",3,"Edge",10,"Wolf.spider..Lycosidae..p",1
+"190",3,"Grassland",12,"Wolf.spider..Lycosidae..p",1

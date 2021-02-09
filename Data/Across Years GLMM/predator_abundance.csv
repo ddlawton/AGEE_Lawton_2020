@@ -1,0 +1,44 @@
+,Field,Location,Transect,family,amount
+1,3,20 Meters,11,Centipedes,1
+2,3,Grassland,12,Centipedes,2
+3,1,Edge,2,Opiliones,2.5
+4,1,20 Meters,3,Opiliones,1.5
+5,1,Grassland,4,Opiliones,1
+6,2,Tree stand,5,Opiliones,4.5
+7,2,Edge,6,Opiliones,1
+8,2,20 Meters,7,Opiliones,1
+9,2,Grassland,8,Opiliones,1
+10,3,Edge,10,Opiliones,2.333333333
+11,3,20 Meters,11,Opiliones,2
+12,3,Grassland,12,Opiliones,2
+13,2,Tree stand,5,Lamingtoniidae,1
+14,2,Edge,6,Lamingtoniidae,2
+15,2,20 Meters,7,Lamingtoniidae,1
+16,2,Grassland,8,Lamingtoniidae,2
+17,3,Tree stand,9,Lamingtoniidae,1.25
+18,2,Edge,6,Miturgidae,1
+19,2,20 Meters,7,Miturgidae,1
+20,1,20 Meters,3,Other beetle,2
+21,1,Grassland,4,Other beetle,1
+22,2,Grassland,8,Other beetle,1
+23,3,Tree stand,9,Other beetle,1
+24,3,Edge,10,Other beetle,1
+25,3,20 Meters,11,Other beetle,1
+26,3,Grassland,12,Other beetle,1.5
+27,1,Tree stand,1,Other spider,2
+28,1,Edge,2,Other spider,1.5
+29,1,20 Meters,3,Other spider,1
+30,1,Grassland,4,Other spider,1
+31,2,Edge,6,Other spider,1
+32,2,20 Meters,7,Other spider,1
+33,2,Grassland,8,Other spider,3
+34,3,Edge,10,Other spider,1
+35,3,20 Meters,11,Other spider,1
+36,3,Grassland,12,Other spider,1
+37,2,20 Meters,7,Pisauridae,1
+38,1,Edge,2,Lycosidae,1
+39,2,Tree stand,5,Lycosidae,1.5
+40,2,Edge,6,Lycosidae,1
+41,2,20 Meters,7,Lycosidae,1
+42,3,Edge,10,Lycosidae,1
+43,3,Grassland,12,Lycosidae,1
